@@ -1,0 +1,8 @@
+diff a/script.js b/script.js	(rejected hunks)
+@@ -160,4 +160,4 @@
+ 		navigate("next");
+ 	}, slideshowSpeed);
+ 	
+-});
+\ No newline at end of file
++});
