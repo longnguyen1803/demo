@@ -1,5 +1,5 @@
 /*
-* Author:      Marco Kuiper (http://www.marcofolio.net/)
+* Author:      long (http://www.marcofolio.net/)
 */
 
 // Speed of the automatic slideshow
