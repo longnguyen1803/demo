@@ -1,5 +1,5 @@
 /*
-* Author:      long (http://www.marcofolio.net/)
+* Author:      long1 (http://www.marcofolio.net/)
 */
 
 // Speed of the automatic slideshow
